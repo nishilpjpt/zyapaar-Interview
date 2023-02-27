@@ -1,0 +1,6 @@
+com\zyapaar\service\InventoryService.class
+com\zyapaar\InventoryStoreApplication.class
+com\zyapaar\model\Inventory.class
+com\zyapaar\exception\InventoryException.class
+com\zyapaar\model\Status.class
+com\zyapaar\repositiry\InventoryRepository.class
